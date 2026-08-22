@@ -35,7 +35,7 @@ Python script for cleaning and preparing vehicle loan dataset, handling missing 
 * ใช้ AI (เช่น ChatGPT) เป็นผู้ช่วยในการไกด์ไอเดียการออกแบบตัววัดผลและการวางหน้ารายงานให้ตอบโจทย์ผู้บริหาร
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](image_wSP7TM.png)
+![Dashboard Screenshot](image.png)
 
 ## 💡 Key Business Insights
 * **Insight 1:** แสดงภาพรวมและสัดส่วนของผู้กู้เงินซื้อรถยนต์แยกตามประเภทและภูมิภาค เพื่อให้เห็นกลุ่มลูกค้าหลัก
